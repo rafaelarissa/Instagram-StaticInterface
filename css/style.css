@@ -292,6 +292,9 @@ footer {
   .container {
     width: 100%;
   }
+  .botao-home ion-icon {
+    padding-left: 18px;
+  }
 }
 
 @media (max-width: 614px) {
